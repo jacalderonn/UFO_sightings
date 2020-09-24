@@ -1,6 +1,6 @@
-# UFO's Sightsings
+# UFO's Sightings
 
-Using a JSON file of UFO sightsings I created a date filer that shows the sightsings in a table
+Using a JSON file of UFO sightings I created a date filer that shows the sightings in a table
 
 
 ## Built with
