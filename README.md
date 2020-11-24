@@ -1,6 +1,6 @@
 # UFO's Sightings
 
-Using a JSON file of UFO sightings I created a date filer that shows the sightings in a table
+Using a JSON file of UFO sightings in the USA, I created a date filter that shows the sightings in a table
 
 
 ## Built with
